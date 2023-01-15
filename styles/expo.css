@@ -1,0 +1,348 @@
+/*  -------------- my first header-banner */
+
+main{
+    width: 1920px;
+    height: 1322px;
+    background: antiquewhite
+}
+
+
+.container{
+display: flex;
+gap: 1000px;
+}
+
+.section-hipe{
+display: flex;
+margin-top: 20px;
+gap: 50px;
+}
+
+.section-title{
+margin-left: 90px;
+
+}
+
+.section-name{
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 700;
+    font-size: 48px;
+    color: #131313;
+}
+
+.hipe-name{
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    color: #424242;
+
+}
+
+
+/*   -------- banner- section */
+
+
+.banner-first{
+    text-align: center;
+}
+
+.banner-hub{
+margin-top:30px ;
+margin-left: 530px;
+width: 862px;
+height: 225px;
+}
+.banner-title{
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 700;
+    font-size: 60px;
+    color: #131313;
+}
+.banner-deatile{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 20px;
+    color: #727272;
+
+}
+
+.banner-photo{
+ margin-top: 60px;
+ margin-left: 220px;
+width: 1440px;
+height: 700px;
+}
+
+.first-btn{
+    margin-top: 50px;
+    padding: 0px 90px;
+    border-radius: 15px;
+    background: orange;
+}
+
+.btn-title{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 30px;
+    color: #FFFFFF;
+
+}
+
+/*-------- middle-photo-section------ */
+
+.middle-point{
+margin-top: 40px;
+    margin-left: 200px;
+}
+
+
+ .middle-pic {
+    display: grid;
+    grid-template-columns: repeat(2, 0.08fr);
+    grid-row-gap: 20px;
+    grid-column-gap: 20px;
+}
+
+.middle-point{
+    display: flex;
+    gap: 150px;
+}
+
+.middle-about{
+width: 537px;
+height: 304px;
+margin-top: 200px;
+
+}
+
+.middle-title{
+
+    font-family: 'Work Sans', sans-serif;
+    font-size: 45px;
+
+}
+
+#first-like{
+    color: #727272;
+
+}
+
+
+#like{
+    color: #FF900E;
+}
+
+#like-hub{
+
+    color: #131313;
+}
+
+.middle-description{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 16px;
+    color: #727272;
+
+}
+
+.second-btn{
+    padding: 0px 50px;
+    border-radius: 15px;
+    background: orange;
+}
+
+.btn2-title{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 30px;
+    color: #FFFFFF;
+
+}
+
+/* My last upper section */
+
+.header{
+width: 1440px;
+height: 1059px;
+}
+
+.last-section{
+margin-left: 70px ;
+margin-top: 100px;
+display: flex;
+gap: 100px;
+
+}
+
+.last-action{
+width: 586px;
+height: 982px;
+
+}
+
+.last-about{
+font-family: 'Work Sans', sans-serif;
+font-size: 45px;
+}
+
+.last-dis{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 16px;
+    color: #727272;
+}
+
+.least-about{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 20px;
+    color: #131313;
+
+}
+
+.title-last{
+
+width: 586px;
+height: 171px;
+background: #FFFFFF;
+box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.06);
+border-radius: 8px;
+}
+
+.magna-list{
+width: 342px;
+height: 150px;
+
+}
+
+
+.third-button{
+background: #FF900E;
+margin-top: 50px;
+margin-left: 600px;
+
+
+}
+
+.btn3-title{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 50px;
+    color: #FFFFFF;
+}
+
+.btn3-des{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 25px;
+    color: #FFFFFF;
+    
+}
+
+
+/* -----------------Last Dance */
+
+.football{
+margin-top: 500px;
+margin-left: 90px;
+
+}
+.foot-title{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 45px;
+    color: #131313;
+
+}
+.foot-des{
+width: 542px;
+height: 53px;
+font-family: 'Work Sans', sans-serif;
+font-size: 16px;
+color: #727272;
+
+}
+
+
+/* ----------------button-------------section--------------- */
+
+.shorts-button{
+display: flex;
+gap: 100px;
+margin-left: 90px;
+margin-top: 100px;
+
+}
+
+.btn4-title{
+    width: 240px;
+    height: 242px;
+    border: 1px solid #FF900E;
+    border-radius: 9px;
+
+}
+
+
+.cric-1{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 45px;
+    color: #424242;
+
+}
+
+.cric-des{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 21px;
+    color: #727272;
+}
+
+/* ----------boost-----section */
+
+
+.boost{
+    margin-top: 300px;
+    padding-left: 600px ;
+}
+
+.boost-des{
+width: 542px;
+height: 52px
+}
+
+.boost-title{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 46px;
+    color: #131313;
+
+}
+
+.boost-title2{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 20px;
+    color: #727272;
+}
+
+
+/* ------last--------item */
+
+.last-item{
+display: flex;
+gap: 90px;
+padding-top: 100px;
+padding-left: 120px;
+}
+
+/* My----finale---done----- */
+
+footer{
+width: 1440px;
+height: 100px;
+margin-top: 350px;
+margin-left: 30px;
+background: #FFF4E7;
+border-radius: 10px;
+}
+
+.finale{
+margin-left: 300px;
+padding-top: 30px;
+}
+
+.finale-done{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 20px;
+     color: #424242;
+    ; 
+}
+
